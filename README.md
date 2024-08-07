@@ -1,6 +1,8 @@
 # **Full Cycle Course**
 
-[![alt text](./public/img/logo-course.png "Logo full cycle")](https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/site/logo-fullcycle.png)
+<p align="center">
+  <img src="https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/site/logo-fullcycle.png" width="100%" title="Full cycle logo">
+</p>
 
 ---
 
